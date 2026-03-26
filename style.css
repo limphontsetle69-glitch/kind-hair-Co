@@ -24,7 +24,7 @@ body::before {
 }
 
 header {
-    background:#b76e79;
+    background:#f614b1;
     color: white;
     padding: 15px;
     text-align: center;
@@ -63,7 +63,7 @@ img {
 }
 
 .product-table th {
-    background-color: #b76e79;
+    background-color: #f614b1;
     color: white;
 }
 
@@ -83,7 +83,7 @@ img {
 }
 
 .product-table button {
-    background-color: #b76e79;
+    background-color: #f614b1;
     color: white;
     border: none;
     padding: 8px 12px;
